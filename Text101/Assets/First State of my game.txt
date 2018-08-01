@@ -1,10 +1,9 @@
 First couple of sentences
 
-Your a space marine and 
-you've lost all contact with your team and need to find them!
-Having used a teleporter to arrive at your currentlocation.
-You are alone. 
-What do you do?
+Your a space marine and you've lost all contact with your team and need to find them!
+Having used a teleporter to arrive at your currentlocation. 
+Looking out the window it appears your on Mars.
+You are alone. What do you do?
 
 Here are the first 4 choices
 

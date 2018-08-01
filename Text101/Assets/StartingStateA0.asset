@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: StartingStateA0
+  m_EditorClassIdentifier: 
+  storyText: "Your a space marine and you've lost all contact with\nyour squad and
+    need to find them!\r\nHaving used a teleporter to arrive at your currentlocation.
+    \r\nLooking out the window it appears your on Mars.\r\nYou are alone. What do
+    you do?\n\r\nHere are the first 4 choices\r\n\r\n1: North\r\n2: South\r\n3: East\r\n4:
+    West.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 43c9193fa74a7d64b9db26d1ceb8196e, type: 2}
+  - {fileID: 11400000, guid: 84b508ebfba537340a19d0fd64c4600a, type: 2}
+  - {fileID: 11400000, guid: bc00e3d9549107b4fb68488bc6c2d055, type: 2}
+  - {fileID: 11400000, guid: e77a64a188dd2254387f0c89c404fea4, type: 2}
+  - {fileID: 11400000, guid: e77a64a188dd2254387f0c89c404fea4, type: 2}
+  - {fileID: 11400000, guid: 4062a5f079c7c9547b9e2472d0c6d8cd, type: 2}

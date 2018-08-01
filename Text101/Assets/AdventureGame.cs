@@ -6,16 +6,18 @@ using UnityEngine.UI;
 public class AdventureGame : MonoBehaviour {
 
     [SerializeField] Text textComponent;
+    [SerializeField] State startingState;
+
+
+    State state;
 
     // Use this for initialization
 	void Start ()
     {
-        textComponent.text = ("Your a space marine and" +
-"you've lost all contact with your team and need to find them!" +
-"You are alone. After beaming in, to arrive at your current location."
-+ "Your inside a structure doors all around you." + 
-"Clearly you can see out the window it appears you are possibly on Mars" + 
-"Your options are");
+        state = startingState;
+        textComponent.text = state.GetStateStory();
+
+
 	}
 	
 	// Update is called once per frame
