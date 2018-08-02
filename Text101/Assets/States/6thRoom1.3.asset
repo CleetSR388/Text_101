@@ -15,9 +15,9 @@ MonoBehaviour:
     tenctiles attached to the ceiling and floor in front of the door ahead.\r\nPulsing
     bloated veins all over his body. He looks at you and asks...\nThe beginning of
     eternity\r\nThe end of time and space\r\nThe beginning of every end,\r\nAnd the
-    end of every place.\r\n\r\nWhat am I?\r\nYou have 1 guess left. \r\nIf you fail
-    you join my collection of space creatures \r\nIf you get it correct I will let
-    you pass but understand through here\r\nis something far worse then me and I will
+    end of every place.\r\nWhat am I?\r\nYou have 1 guess left. \r\nIf you fail you
+    join my collection of space creatures \r\nIf you get it correct I will let you
+    pass but understand through here\r\nis something far worse then me and I will
     not let you back this way.\n1: Plasma 2: Gravity 3: Time 4: The Letter E\n"
   nextStates:
   - {fileID: 11400000, guid: 9a2a84e176e80064385cd3961fefefe7, type: 2}

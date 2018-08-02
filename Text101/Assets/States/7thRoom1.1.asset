@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: "You proceed past the creature and it seals your only way out.\r\nIn
     front of you are red eyes not just one or two but instead 8!\r\nYou realize your
-    facing the biggest spider you had ever seen.\r\n\n1:Make a mad dash so you can
-    out run it down the tunnel\r\nor\r\n2:You could blind it by shooting out its eyes
-    with your gun\r\nWhat do you do?"
+    facing the biggest spider you had ever seen.\r\n\n1:  Make a mad dash so you can
+    out run it down the tunnel\r\nor\r\n2:  You could blind it by shooting out its
+    eyes with your gun\r\nWhat do you do?"
   nextStates:
   - {fileID: 11400000, guid: 72feafbb304b1d445b153187e54f07a4, type: 2}
   - {fileID: 11400000, guid: f2718d391566ad748ab3b2f6ce57ce75, type: 2}

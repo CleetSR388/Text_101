@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
   m_Name: Introduction
   m_EditorClassIdentifier: 
-  storyText: "Hey there! \nI read many choose your own adventure books as a kid.\nHope
+  storyText: "Hey there! \nI have read many choose your own adventure books as a kid.\nHope
     you enjoy this as much as I did making it!\n\nPress 1 to continue\n\nAt any point
     in time, push \"q\" to quit."
   nextStates:
