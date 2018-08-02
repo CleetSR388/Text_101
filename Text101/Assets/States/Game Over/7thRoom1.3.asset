@@ -15,7 +15,7 @@ MonoBehaviour:
     to find you.\r\nA hatch in the ceiling opens up and you hear \"Sarge! Grab this
     rope!\".\r\n You climb up to safety. Your sqaud wasn't sure what happened to you\r\nand
     they fill you in on the real deal going on here.\r\nYour not going back home your
-    mission has just begun!\r\n\r\n\tGame Over Congrats\nPress 1 to play again\nPress
+    mission has just begun!\r\n\r\n\t\t\tGame Over Congrats!\nPress 1 to play again\nPress
     2 to end"
   nextStates:
   - {fileID: 11400000, guid: 4dac17dbb2575d34b9ca70dd127dc445, type: 2}

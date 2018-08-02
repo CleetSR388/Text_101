@@ -15,7 +15,7 @@ MonoBehaviour:
     controlled all the locked cages!\r\nThe door slams shut behind you and computer
     voice saying, \"Quarantine in effect.\"\r\nYou may of thought you were good in
     life....but instead you were just good to eat.\r\nYou scream in pain as these
-    creatures rip your flesh apart from your bones. \r\n\r\n\t\tYou Have Died\r\nPress
+    creatures rip your flesh apart from your bones. \r\n\r\n\t\t\tYOU HAVE DIED!\nPress
     1 to play again\nPress 2 to give up"
   nextStates:
   - {fileID: 11400000, guid: 4dac17dbb2575d34b9ca70dd127dc445, type: 2}

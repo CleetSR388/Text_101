@@ -14,7 +14,7 @@ MonoBehaviour:
   storyText: "Your a space marine and you've lost all contact with\nyour squad and
     need to find them!\r\nHaving used a teleporter to arrive at your current location.
     \r\nLooking out the window it appears your on Mars.\r\nYou are alone. What do
-    you do?\n\r\nHere are the first 4 choices\r\n\r\n1: North\r\n2: East\r\n3: South\n4:
+    you do?\n\r\nHere are your choices\r\n\r\n1: North\r\n2: East\r\n3: South\n4:
     West.\r\n"
   nextStates:
   - {fileID: 11400000, guid: eb2ef281192b03e48b5dbc06b461ac33, type: 2}

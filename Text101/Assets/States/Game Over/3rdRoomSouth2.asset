@@ -15,7 +15,7 @@ MonoBehaviour:
     snap his neck, \r\nbut you did not see he had a knife in his hand already. \r\nHe
     sidesteps your attempt and stabs you in the chest.\r\nMaybe you should have used
     your fists and attacked quicker. \r\nHowever it is now too late. Your vision fades
-    to black \r\nas you hear him laugh at your defeat.\r\n\r\n\t\tYou Have Died\n\nPress
+    to black \r\nas you hear him laugh at your defeat.\r\n\r\n\t\t\tYOU HAVE DIED!\n\nPress
     1 to play again\nPress 2 to give up"
   nextStates:
   - {fileID: 11400000, guid: 4dac17dbb2575d34b9ca70dd127dc445, type: 2}

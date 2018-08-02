@@ -14,8 +14,8 @@ MonoBehaviour:
   storyText: "Your a space marine and you've lost all contact with\nyour squad and
     need to find them!\r\nHaving used a teleporter to arrive at your current location.
     \r\nLooking out the window it appears your on Mars.\r\nYou are alone. \t\tWith
-    Gun+Ammo.\nWhat do you do?\n\r\nHere are the first 4 choices\r\n\r\n1: North\r\n2:
-    East\n3: West\r\r\n"
+    Gun+Ammo.\nWhat do you do?\n\r\nHere are your choices\r\n\r\n1: North\r\n2: East\n3:
+    West\r\r\n"
   nextStates:
   - {fileID: 11400000, guid: f4596d474ad1e684f9696cca5af90b0a, type: 2}
   - {fileID: 11400000, guid: 84b508ebfba537340a19d0fd64c4600a, type: 2}

@@ -14,7 +14,7 @@ MonoBehaviour:
   storyText: "\r\nYou make a mad dash and run past it thinking you can out run this
     beast. \r\nHowever it catches up to you in no time and sticks its gaint fangs
     in to your turso.\r\nAnd as it wraps you up in its web. \r\nYou discover its venom
-    doesn't take long to make you a tasty snack for later.\r\n\r\n\t\t\tYou Have Died\nPress
+    doesn't take long to make you a tasty snack for later.\r\n\r\n\t\t\tYOU HAVE DIED!\nPress
     1 to play again\nPress 2 to give up"
   nextStates:
   - {fileID: 11400000, guid: 4dac17dbb2575d34b9ca70dd127dc445, type: 2}
