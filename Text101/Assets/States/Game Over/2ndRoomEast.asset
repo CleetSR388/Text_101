@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: 2ndRoomEast
+  m_EditorClassIdentifier: 
+  storyText: "You proceed east \r\nAs you roam down the hall the door shuts behind
+    you.\r \nSomething tells you it was a bad idea to come in here\nA loud alarm sounds
+    off and a red light blinks in the ceiling.\r\nThe walls are closing in and you
+    struggle to find an exit \r\nbut it is no use. No one hears as your body is squished
+    and your bones are crushed.\r\nOne day your dogtag will be found and you will
+    be remembered.....You hope...\n\n\t\t\tYOU HAVE DIED!\n\nPress 1 to play again\nPress
+    2 to give up"
+  nextStates:
+  - {fileID: 11400000, guid: 4dac17dbb2575d34b9ca70dd127dc445, type: 2}
+  - {fileID: 11400000, guid: e458cac3bdad0ed43a02956cb3d60623, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: 3rdRoomSouth1
+  m_EditorClassIdentifier: 
+  storyText: "You proceed south\r\nThere is a gaurd here. He has a gun and some ammo.\r\nHe
+    doesn't seem to of noticed you. He is facing away from you.\r\nYou could try to
+    sneak up on him and snap his neck before he could even pull the trigger.\r\nOr\r\nQuickly
+    rush hit him so hard you knock him out cold.\r\nWhat do you choose?\n1: Snap his
+    neck\n2: Knock him out"
+  nextStates:
+  - {fileID: 11400000, guid: ea6ed0f737d7ad74a9e7d6a811d680d2, type: 2}
+  - {fileID: 11400000, guid: 4332fdbf9d588bd428d906a1e0288325, type: 2}

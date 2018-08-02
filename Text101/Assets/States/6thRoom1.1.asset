@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: 6thRoom1.1
+  m_EditorClassIdentifier: 
+  storyText: "There is a man there only he is no longer a man. \r\nHe has mutated
+    tentacles attached to the ceiling and floor in front of the door ahead.\r\nPulsing
+    bloated veins all over his body. He looks at you and asks...\nThe beginning of
+    eternity\r\nThe end of time and space\r\nThe beginning of every end,\r\nAnd the
+    end of every place.\r\n\r\nWhat am I?\r\nYou'll have 3 guesses. \r\nIf you fail
+    you join my collection of space creatures \r\nIf you get it correct I will let
+    you pass but understand through here\r\nis something far worse then me and I will
+    not let you back this way.\n1: Plasma 2: Gravity 3: Time 4: The Letter E\n"
+  nextStates:
+  - {fileID: 11400000, guid: 43a49dfef8b11d44e894edce49f3cd45, type: 2}
+  - {fileID: 11400000, guid: 43a49dfef8b11d44e894edce49f3cd45, type: 2}
+  - {fileID: 11400000, guid: 43a49dfef8b11d44e894edce49f3cd45, type: 2}
+  - {fileID: 11400000, guid: 84804305639d69b4e8a8c7e4c771cec8, type: 2}

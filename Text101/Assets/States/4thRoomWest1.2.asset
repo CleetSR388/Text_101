@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: 4thRoomWest1.2
+  m_EditorClassIdentifier: 
+  storyText: "You proceed west. \r\t\t\t\tGun+Ammo\nThe lights off and everything
+    is dark.\r\nYou encounter cages with strange deformed mutated creatures in them.\r
+    Seems to be secure. You look for anything helpful. Find a safe under a desk.\r
+    Your not able to open it. You've searched the desk and nearby shelves.\r Useless
+    papers scattered about.\r \nThere is nothing else in the room. Theres a switch
+    for the light. \r\n\r\n1: You could try to shoot at the safe.\r\nOr \r\n2: you
+    could turn the lights on you might see things clearer."
+  nextStates:
+  - {fileID: 11400000, guid: 57c44191762a5d445ace54ed288cebca, type: 2}
+  - {fileID: 11400000, guid: 8e8d0bedbdb65fc43963c0b08adf32a0, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: 3rdRoomSouth3
+  m_EditorClassIdentifier: 
+  storyText: "You decide to come at him quick and punch him so hard he sees stars.\r\nYou
+    busted your knuckles up abit, but you've no time to be concerned with that right
+    now.\r\nYou get the gun and the ammo. Then return to the North as there is nothing
+    more here you can do.\n\npress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: c61addd8069d36c40b46e34b9fcfa874, type: 2}

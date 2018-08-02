@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: 1stRoom1.2
+  m_EditorClassIdentifier: 
+  storyText: "Your a space marine and you've lost all contact with\nyour squad and
+    need to find them!\r\nHaving used a teleporter to arrive at your current location.
+    \r\nLooking out the window it appears your on Mars.\r\nYou are alone. \t\tWith
+    Keycard + Gun + Ammo\nWhat do you do?\n\r\nHere are the first 4 choices\r\n\r\n1:
+    North\r\n2: East\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: c13ef8992c22e354c98919844fc98b17, type: 2}
+  - {fileID: 11400000, guid: 84b508ebfba537340a19d0fd64c4600a, type: 2}

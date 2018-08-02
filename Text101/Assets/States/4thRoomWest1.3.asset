@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98992578f98e7fc41ab7062214f04097, type: 3}
+  m_Name: 4thRoomWest1.3
+  m_EditorClassIdentifier: 
+  storyText: "You take aim and let off a few rounds at the safe.\r\nIt gives and the
+    lock brakes!\r\nInside is a Megnetic Keycard! You may need that later on.\r\nYou
+    return east as there is nothing more you can do here\nPress 1 to continue"
+  nextStates:
+  - {fileID: 11400000, guid: 6a3ea2f0ed28efb468eeb3c59b5093a6, type: 2}
